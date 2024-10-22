@@ -51,7 +51,7 @@
     "eslint-plugin-json": "^2.1.2",
     "eslint-plugin-mocha": "^8.0.0",
     "jsdom": "^16.4.0",
-    "lerna": "^4.0.0",
+    "lerna": "^8.1.8",
     "rimraf": "^3.0.2"
   },
   "eslintConfig": {
